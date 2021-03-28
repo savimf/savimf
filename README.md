@@ -2,18 +2,14 @@
 ## Físico/Pesquisador
 ### Aspirante à área de Data Science
 
-Seja bem-vindo ao meu GitHub! Meu nome é Matheus Savi, tenho 27 anos, sou bacharel e mestre em física pela Universidade Federal do Paraná (UFPR), e estou terminando meu doutorado em ciências, também pela UFPR, com previsão para defesa no segundo semestre deste ano. Minha pesquisa baseia-se no estudo de recursos quânticos, como correlações, coerência e incompatibilidade, para execução de tarefas computacionais. Se desejar, pode conferir meus artigos a seguir:
-
-- _Quantum incompatibility of a physical context_: https://arxiv.org/abs/2004.01008v2
-
-- _Quantum resource covariance_: https://arxiv.org/abs/2005.09612v2
+Seja bem-vindo ao meu GitHub! Meu nome é Matheus Savi, tenho 27 anos, sou bacharel e mestre em física pela Universidade Federal do Paraná (UFPR), e estou terminando meu doutorado em ciências, também pela UFPR, com previsão para defesa no segundo semestre deste ano. Minha pesquisa baseia-se no estudo de recursos quânticos, como correlações, coerência e incompatibilidade, para execução de tarefas computacionais. 
 
 Há alguns meses comecei a estudar programação em Python para direcionar meus conhecimentos à Ciência de Dados, particularmente à área bancária/setor financeiro. Também tenho familiaridade com as seguintes linguagens:
 
 1. C++;
 2. R;
 3. Java;
-4. PowerShell;
+4. Shell Script;
 5. Wolfram (Mathematica);
 6. LaTeX (escrita avançada). 
 
@@ -23,6 +19,13 @@ Atualmente, estou organizando projetos para montar meu portfólio, o qual dividi
 
 ## Projetos Principais
 - **Análise de ativos e otimização de uma carteira de investimentos:** https://bit.ly/3lsxkiy
+
+### Artigos
+Se desejar, pode conferir meus artigos a seguir:
+
+- _Quantum incompatibility of a physical context_: https://arxiv.org/abs/2004.01008v2
+
+- _Quantum resource covariance_: https://arxiv.org/abs/2005.09612v2
 
 Obrigado,
 
