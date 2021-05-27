@@ -6,12 +6,12 @@ Seja bem-vindo ao meu GitHub! Meu nome é Matheus Savi, tenho 27 anos, sou bacha
 
 Há alguns meses comecei a estudar programação em Python para direcionar meus conhecimentos à Ciência de Dados, particularmente à área bancária/setor financeiro. Também tenho familiaridade com as seguintes linguagens:
 
-1. C++;
-2. R;
-3. Java;
-4. Shell Script;
-5. Wolfram (Mathematica);
-6. LaTeX (escrita avançada). 
+1. LaTeX;
+2. Wolfram (Mathematica);
+3. Shell Script;
+4. R;
+5. C++;
+6. Java.
 
 Mais adiante, ao consolidar todos os conceitos, especialmente em _Machine Learning_, pretendo ingressar no mundo da computação quântica e em _Quantum Machine Learning_.
 
@@ -24,6 +24,7 @@ Atualmente, estou organizando projetos para montar meu portfólio, o qual dividi
 ### Mini-projetos e/ou exercícios mais elaborados
 - **Jogo de calcular:** https://bit.ly/3sJwpfC
 - **Mercado:** https://bit.ly/3nihojP
+- **Banco:** https://bit.ly/3up2aLT
 
 ### Artigos
 Se desejar, pode conferir meus artigos a seguir:
