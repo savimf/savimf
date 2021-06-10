@@ -20,7 +20,7 @@ Atualmente, estou organizando projetos para montar meu portfólio, o qual dividi
 ## Projetos Principais
 - **Análise de ativos e otimização de uma carteira de investimentos:** https://bit.ly/3lsxkiy
 
-## Projetoes Secundários
+## Projetos Secundários
 ### Mini-projetos e/ou exercícios mais elaborados
 - **Jogo de calcular:** https://bit.ly/3sJwpfC
 - **Mercado:** https://bit.ly/3nihojP
