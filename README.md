@@ -25,6 +25,7 @@ Atualmente, estou organizando projetos para montar meu portfólio, o qual dividi
 - **Jogo de calcular:** https://bit.ly/3sJwpfC
 - **Mercado:** https://bit.ly/3nihojP
 - **Banco:** https://bit.ly/3up2aLT
+- **Machine Learning - Assinatura de serviço:** https://bit.ly/3b0FRF1
 
 ### Artigos
 Se desejar, pode conferir meus artigos a seguir:
