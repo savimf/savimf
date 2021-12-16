@@ -1,5 +1,5 @@
 # M. F. Savi
-## Físico/Pesquisador
+## Físico/Pesquisador/Analista Quantitativo
 ### Aspirante à área de Data Science
 
 Seja bem-vindo ao meu GitHub! Meu nome é Matheus Savi, tenho 27 anos, sou bacharel e mestre em física pela Universidade Federal do Paraná (UFPR), e estou terminando meu doutorado em ciências, também pela UFPR, com previsão para defesa no segundo semestre deste ano. Minha pesquisa baseia-se no estudo de recursos quânticos, como correlações, coerência e incompatibilidade, para execução de tarefas computacionais. 
