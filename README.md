@@ -21,6 +21,7 @@ Atualmente, estou organizando projetos para montar meu portfólio, o qual dividi
 - **Análise de ativos e otimização de uma carteira de investimentos**
   - [Otimização convexa](https://bit.ly/3knjXAU)
   - [Otimização com Geração aleatória](https://bit.ly/3Fim4i1)
+  - [Análise de ETFs](https://bit.ly/31tPwmo)
 
 ## Projetos Secundários
 ### Mini-projetos e/ou exercícios mais elaborados
